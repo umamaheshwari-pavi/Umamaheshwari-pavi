@@ -14,4 +14,4 @@ Currently seeking opportunities to contribute and grow as an Angular developer.
 - HTML & CSS  
 - Git & GitHub  
 - Oracle SQL  
-- Basic knowledge of Core Java – familiar with OOP concepts, data types, control statements, loops, exception handling, and file handling. Currently learning the Collections framework.
+- Basic knowledge of Core Java – familiar with OOP concepts, data types, control statements, loops and exception handling. Currently learning the Collections framework.
